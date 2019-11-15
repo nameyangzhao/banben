@@ -6,3 +6,4 @@ git add readme.txt添加到暂存区里面去
 git commit -m 'readme.txt提交'(注释)告诉Git，把文件提交到仓库。
 git status来查看是否还有文件未提交
 git diff readme.txt 文件到底改了什么内容 
+git log 查看历史记录
